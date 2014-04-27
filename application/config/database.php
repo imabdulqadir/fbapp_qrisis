@@ -48,10 +48,10 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = 'localhost';
-$db['default']['username'] = 'root';
-$db['default']['password'] = '';
-$db['default']['database'] = 'fbapp';
+$db['default']['hostname'] = 'mysqlsdb.co8hm2var4k9.eu-west-1.rds.amazonaws.com';
+$db['default']['username'] = 'depdm7r5fwz';
+$db['default']['password'] = 'WhlAV1q7GP1q';
+$db['default']['database'] = 'depdm7r5fwz';
 $db['default']['dbdriver'] = 'mysql';
 $db['default']['port'] = 3306; 
 $db['default']['dbprefix'] = '';
